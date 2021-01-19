@@ -1,0 +1,392 @@
+Region,Local Authority,oslaua
+East Anglia,Babergh,E07000200
+East Anglia,Breckland,E07000143
+East Anglia,Broadland,E07000144
+East Anglia,Cambridge,E07000008
+East Anglia,East Cambridgeshire,E07000009
+East Anglia,Fenland,E07000010
+East Anglia,Forest Heath,E07000201
+East Anglia,Great Yarmouth,E07000145
+East Anglia,Huntingdonshire,E07000011
+East Anglia,Ipswich,E07000202
+East Anglia,King's Lynn and West Norfolk,E07000146
+East Anglia,Mid Suffolk,E07000203
+East Anglia,North Norfolk,E07000147
+East Anglia,Norwich,E07000148
+East Anglia,Peterborough,E06000031
+East Anglia,South Cambridgeshire,E07000012
+East Anglia,South Norfolk,E07000149
+East Anglia,St Edmundsbury,E07000204
+East Anglia,Suffolk Coastal,E07000205
+East Anglia,Waveney,E07000206
+East Midlands,Amber Valley,E07000032
+East Midlands,Ashfield,E07000170
+East Midlands,Bassetlaw,E07000171
+East Midlands,Blaby,E07000129
+East Midlands,Bolsover,E07000033
+East Midlands,Boston,E07000136
+East Midlands,Broxtowe,E07000172
+East Midlands,Charnwood,E07000130
+East Midlands,Chesterfield,E07000034
+East Midlands,Corby,E07000150
+East Midlands,Daventry,E07000151
+East Midlands,Derby,E06000015
+East Midlands,Derbyshire Dales,E07000035
+East Midlands,East Lindsey,E07000137
+East Midlands,East Northamptonshire,E07000152
+East Midlands,Erewash,E07000036
+East Midlands,Gedling,E07000173
+East Midlands,Harborough,E07000131
+East Midlands,High Peak,E07000037
+East Midlands,Hinckley and Bosworth,E07000132
+East Midlands,Kettering,E07000153
+East Midlands,Leicester,E06000016
+East Midlands,Lincoln,E07000138
+East Midlands,Mansfield,E07000174
+East Midlands,Melton,E07000133
+East Midlands,Newark and Sherwood,E07000175
+East Midlands,North East Derbyshire,E07000038
+East Midlands,North Kesteven,E07000139
+East Midlands,North West Leicestershire,E07000134
+East Midlands,Northampton,E07000154
+East Midlands,Nottingham,E06000018
+East Midlands,Oadby and Wigston,E07000135
+East Midlands,Rushcliffe,E07000176
+East Midlands,Rutland,E06000017
+East Midlands,South Derbyshire,E07000039
+East Midlands,South Holland,E07000140
+East Midlands,South Kesteven,E07000141
+East Midlands,South Northamptonshire,E07000155
+East Midlands,Wellingborough,E07000156
+East Midlands,West Lindsey,E07000142
+Greater London,Barking and Dagenham,E09000002
+Greater London,Barnet,E09000003
+Greater London,Bexley,E09000004
+Greater London,Brent,E09000005
+Greater London,Bromley,E09000006
+Greater London,Camden,E09000007
+Greater London,City of London,E09000001
+Greater London,Croydon,E09000008
+Greater London,Ealing,E09000009
+Greater London,Enfield,E09000010
+Greater London,Greenwich,E09000011
+Greater London,Hackney,E09000012
+Greater London,Hammersmith and Fulham,E09000013
+Greater London,Haringey,E09000014
+Greater London,Harrow,E09000015
+Greater London,Havering,E09000016
+Greater London,Hillingdon,E09000017
+Greater London,Hounslow,E09000018
+Greater London,Islington,E09000019
+Greater London,Kensington and Chelsea,E09000020
+Greater London,Kingston upon Thames,E09000021
+Greater London,Lambeth,E09000022
+Greater London,Lewisham,E09000023
+Greater London,Merton,E09000024
+Greater London,Newham,E09000025
+Greater London,Redbridge,E09000026
+Greater London,Richmond upon Thames,E09000027
+Greater London,Southwark,E09000028
+Greater London,Sutton,E09000029
+Greater London,Tower Hamlets,E09000030
+Greater London,Waltham Forest,E09000031
+Greater London,Wandsworth,E09000032
+Greater London,Westminster,E09000033
+North,Allerdale,E07000026
+North,Barrow-in-Furness,E07000027
+North,Carlisle,E07000028
+North,Copeland,E07000029
+North,County Durham,E06000047
+North,Darlington,E06000005
+North,Eden,E07000030
+North,Gateshead,E08000037
+North,Hartlepool,E06000001
+North,Middlesbrough,E06000002
+North,Newcastle upon Tyne,E08000021
+North,North Tyneside,E08000022
+North,Northumberland,E06000057
+North,Redcar and Cleveland,E06000003
+North,South Lakeland,E07000031
+North,South Tyneside,E08000023
+North,Stockton-on-Tees,E06000004
+North,Sunderland,E08000024
+North West,Blackburn with Darwen,E06000008
+North West,Blackpool,E06000009
+North West,Bolton,E08000001
+North West,Burnley,E07000117
+North West,Bury,E08000002
+North West,Cheshire East,E06000049
+North West,Cheshire West and Chester,E06000050
+North West,Chorley,E07000118
+North West,Fylde,E07000119
+North West,Halton,E06000006
+North West,Hyndburn,E07000120
+North West,Knowsley,E08000011
+North West,Lancaster,E07000121
+North West,Liverpool,E08000012
+North West,Manchester,E08000003
+North West,Oldham,E08000004
+North West,Pendle,E07000122
+North West,Preston,E07000123
+North West,Ribble Valley,E07000124
+North West,Rochdale,E08000005
+North West,Rossendale,E07000125
+North West,Salford,E08000006
+North West,Sefton,E08000014
+North West,South Ribble,E07000126
+North West,St. Helens,E08000013
+North West,Stockport,E08000007
+North West,Tameside,E08000008
+North West,Trafford,E08000009
+North West,Warrington,E06000007
+North West,West Lancashire,E07000127
+North West,Wigan,E08000010
+North West,Wirral,E08000015
+North West,Wyre,E07000128
+Northern Ireland,Antrim and Newtownabbey,N09000001
+Northern Ireland,"Armagh, Banbridge and Craigavon",N09000002
+Northern Ireland,Belfast,N09000003
+Northern Ireland,Causeway Coast and Glens,N09000004
+Northern Ireland,Derry and Strabane,N09000005
+Northern Ireland,Fermanagh and Omagh,N09000006
+Northern Ireland,Lisburn and Castlereagh,N09000007
+Northern Ireland,Mid and East Antrim,N09000008
+Northern Ireland,Mid Ulster,N09000009
+Northern Ireland,"Newry, Mourne and Down",N09000010
+Northern Ireland,North Down and Ards,N09000011
+Outer Metropolitan,Basildon,E07000066
+Outer Metropolitan,Bracknell Forest,E06000036
+Outer Metropolitan,Brentwood,E07000068
+Outer Metropolitan,Broxbourne,E07000095
+Outer Metropolitan,Castle Point,E07000069
+Outer Metropolitan,Chelmsford,E07000070
+Outer Metropolitan,Chiltern,E07000005
+Outer Metropolitan,Crawley,E07000226
+Outer Metropolitan,Dacorum,E07000096
+Outer Metropolitan,Dartford,E07000107
+Outer Metropolitan,East Hertfordshire,E07000242
+Outer Metropolitan,Elmbridge,E07000207
+Outer Metropolitan,Epping Forest,E07000072
+Outer Metropolitan,Epsom and Ewell,E07000208
+Outer Metropolitan,Gravesham,E07000109
+Outer Metropolitan,Guildford,E07000209
+Outer Metropolitan,Harlow,E07000073
+Outer Metropolitan,Hart,E07000089
+Outer Metropolitan,Hertsmere,E07000098
+Outer Metropolitan,Horsham,E07000227
+Outer Metropolitan,Luton,E06000032
+Outer Metropolitan,Maidstone,E07000110
+Outer Metropolitan,Medway,E06000035
+Outer Metropolitan,Mid Sussex,E07000228
+Outer Metropolitan,Mole Valley,E07000210
+Outer Metropolitan,North Hertfordshire,E07000099
+Outer Metropolitan,Reading,E06000038
+Outer Metropolitan,Reigate and Banstead,E07000211
+Outer Metropolitan,Rochford,E07000075
+Outer Metropolitan,Runnymede,E07000212
+Outer Metropolitan,Rushmoor,E07000092
+Outer Metropolitan,Sevenoaks,E07000111
+Outer Metropolitan,Slough,E06000039
+Outer Metropolitan,South Bucks,E07000006
+Outer Metropolitan,Southend-on-Sea,E06000033
+Outer Metropolitan,Spelthorne,E07000213
+Outer Metropolitan,St Albans,E07000240
+Outer Metropolitan,Stevenage,E07000243
+Outer Metropolitan,Surrey Heath,E07000214
+Outer Metropolitan,Tandridge,E07000215
+Outer Metropolitan,Three Rivers,E07000102
+Outer Metropolitan,Thurrock,E06000034
+Outer Metropolitan,Tonbridge and Malling,E07000115
+Outer Metropolitan,Tunbridge Wells,E07000116
+Outer Metropolitan,Watford,E07000103
+Outer Metropolitan,Waverley,E07000216
+Outer Metropolitan,Welwyn Hatfield,E07000241
+Outer Metropolitan,Windsor and Maidenhead,E06000040
+Outer Metropolitan,Woking,E07000217
+Outer Metropolitan,Wokingham,E06000041
+Outer Metropolitan,Wycombe,E07000007
+Outer South East,Adur,E07000223
+Outer South East,Arun,E07000224
+Outer South East,Ashford,E07000105
+Outer South East,Aylesbury Vale,E07000004
+Outer South East,Basingstoke and Deane,E07000084
+Outer South East,Bedford,E06000055
+Outer South East,Braintree,E07000067
+Outer South East,Brighton and Hove,E06000043
+Outer South East,Canterbury,E07000106
+Outer South East,Central Bedfordshire,E06000056
+Outer South East,Cherwell,E07000177
+Outer South East,Chichester,E07000225
+Outer South East,Colchester,E07000071
+Outer South East,Dover,E07000108
+Outer South East,East Hampshire,E07000085
+Outer South East,Eastbourne,E07000061
+Outer South East,Eastleigh,E07000086
+Outer South East,Fareham,E07000087
+Outer South East,Gosport,E07000088
+Outer South East,Hastings,E07000062
+Outer South East,Havant,E07000090
+Outer South East,Isle of Wight,E06000046
+Outer South East,Lewes,E07000063
+Outer South East,Maldon,E07000074
+Outer South East,Milton Keynes,E06000042
+Outer South East,New Forest,E07000091
+Outer South East,Oxford,E07000178
+Outer South East,Portsmouth,E06000044
+Outer South East,Rother,E07000064
+Outer South East,Shepway,E07000112
+Outer South East,South Oxfordshire,E07000179
+Outer South East,Southampton,E06000045
+Outer South East,Swale,E07000113
+Outer South East,Tendring,E07000076
+Outer South East,Test Valley,E07000093
+Outer South East,Thanet,E07000114
+Outer South East,Uttlesford,E07000077
+Outer South East,Vale of White Horse,E07000180
+Outer South East,Wealden,E07000065
+Outer South East,West Berkshire,E06000037
+Outer South East,West Oxfordshire,E07000181
+Outer South East,Winchester,E07000094
+Outer South East,Worthing,E07000229
+Scotland,Aberdeen City,S12000033
+Scotland,Aberdeenshire,S12000034
+Scotland,Angus,S12000041
+Scotland,Argyll and Bute,S12000035
+Scotland,City of Edinburgh,S12000036
+Scotland,Clackmannanshire,S12000005
+Scotland,Dumfries and Galloway,S12000006
+Scotland,Dundee City,S12000042
+Scotland,East Ayrshire,S12000008
+Scotland,East Dunbartonshire,S12000045
+Scotland,East Lothian,S12000010
+Scotland,East Renfrewshire,S12000011
+Scotland,Eilean Siar,S12000013
+Scotland,Falkirk,S12000014
+Scotland,Fife,S12000015
+Scotland,Glasgow City,S12000046
+Scotland,Highland,S12000017
+Scotland,Inverclyde,S12000018
+Scotland,Midlothian,S12000019
+Scotland,Moray,S12000020
+Scotland,North Ayrshire,S12000021
+Scotland,North Lanarkshire,S12000044
+Scotland,Orkney Islands,S12000023
+Scotland,Perth and Kinross,S12000024
+Scotland,Renfrewshire,S12000038
+Scotland,Scottish Borders,S12000026
+Scotland,Shetland Islands,S12000027
+Scotland,South Ayrshire,S12000028
+Scotland,South Lanarkshire,S12000029
+Scotland,Stirling,S12000030
+Scotland,West Dunbartonshire,S12000039
+Scotland,West Lothian,S12000040
+South West,Bath and North East Somerset,E06000022
+South West,Bournemouth,E06000028
+South West,"Bristol, City of",E06000023
+South West,Cheltenham,E07000078
+South West,Christchurch,E07000048
+South West,Cornwall,E06000052
+South West,Cotswold,E07000079
+South West,East Devon,E07000040
+South West,East Dorset,E07000049
+South West,Exeter,E07000041
+South West,Forest of Dean,E07000080
+South West,Gloucester,E07000081
+South West,Isles of Scilly,E06000053
+South West,Mendip,E07000187
+South West,Mid Devon,E07000042
+South West,North Devon,E07000043
+South West,North Dorset,E07000050
+South West,North Somerset,E06000024
+South West,Plymouth,E06000026
+South West,Poole,E06000029
+South West,Purbeck,E07000051
+South West,Sedgemoor,E07000188
+South West,South Gloucestershire,E06000025
+South West,South Hams,E07000044
+South West,South Somerset,E07000189
+South West,Stroud,E07000082
+South West,Swindon,E06000030
+South West,Taunton Deane,E07000190
+South West,Teignbridge,E07000045
+South West,Tewkesbury,E07000083
+South West,Torbay,E06000027
+South West,Torridge,E07000046
+South West,West Devon,E07000047
+South West,West Dorset,E07000052
+South West,West Somerset,E07000191
+South West,Weymouth and Portland,E07000053
+South West,Wiltshire,E06000054
+Wales,Blaenau Gwent,W06000019
+Wales,Bridgend,W06000013
+Wales,Caerphilly,W06000018
+Wales,Cardiff,W06000015
+Wales,Carmarthenshire,W06000010
+Wales,Ceredigion,W06000008
+Wales,Conwy,W06000003
+Wales,Denbighshire,W06000004
+Wales,Flintshire,W06000005
+Wales,Gwynedd,W06000002
+Wales,Isle of Anglesey,W06000001
+Wales,Merthyr Tydfil,W06000024
+Wales,Monmouthshire,W06000021
+Wales,Neath Port Talbot,W06000012
+Wales,Newport,W06000022
+Wales,Pembrokeshire,W06000009
+Wales,Powys,W06000023
+Wales,Rhondda Cynon Taf,W06000016
+Wales,Swansea,W06000011
+Wales,Torfaen,W06000020
+Wales,Vale of Glamorgan,W06000014
+Wales,Wrexham,W06000006
+West Midlands,Birmingham,E08000025
+West Midlands,Bromsgrove,E07000234
+West Midlands,Cannock Chase,E07000192
+West Midlands,Coventry,E08000026
+West Midlands,Dudley,E08000027
+West Midlands,East Staffordshire,E07000193
+West Midlands,"Herefordshire, County of",E06000019
+West Midlands,Lichfield,E07000194
+West Midlands,Malvern Hills,E07000235
+West Midlands,Newcastle-under-Lyme,E07000195
+West Midlands,North Warwickshire,E07000218
+West Midlands,Nuneaton and Bedworth,E07000219
+West Midlands,Redditch,E07000236
+West Midlands,Rugby,E07000220
+West Midlands,Sandwell,E08000028
+West Midlands,Shropshire,E06000051
+West Midlands,Solihull,E08000029
+West Midlands,South Staffordshire,E07000196
+West Midlands,Stafford,E07000197
+West Midlands,Staffordshire Moorlands,E07000198
+West Midlands,Stoke-on-Trent,E06000021
+West Midlands,Stratford-on-Avon,E07000221
+West Midlands,Tamworth,E07000199
+West Midlands,Telford and Wrekin,E06000020
+West Midlands,Walsall,E08000030
+West Midlands,Warwick,E07000222
+West Midlands,Wolverhampton,E08000031
+West Midlands,Worcester,E07000237
+West Midlands,Wychavon,E07000238
+West Midlands,Wyre Forest,E07000239
+Yorkshire & Humberside,Barnsley,E08000016
+Yorkshire & Humberside,Bradford,E08000032
+Yorkshire & Humberside,Calderdale,E08000033
+Yorkshire & Humberside,Craven,E07000163
+Yorkshire & Humberside,Doncaster,E08000017
+Yorkshire & Humberside,East Riding of Yorkshire,E06000011
+Yorkshire & Humberside,Hambleton,E07000164
+Yorkshire & Humberside,Harrogate,E07000165
+Yorkshire & Humberside,"Kingston upon Hull, City of",E06000010
+Yorkshire & Humberside,Kirklees,E08000034
+Yorkshire & Humberside,Leeds,E08000035
+Yorkshire & Humberside,North East Lincolnshire,E06000012
+Yorkshire & Humberside,North Lincolnshire,E06000013
+Yorkshire & Humberside,Richmondshire,E07000166
+Yorkshire & Humberside,Rotherham,E08000018
+Yorkshire & Humberside,Ryedale,E07000167
+Yorkshire & Humberside,Scarborough,E07000168
+Yorkshire & Humberside,Selby,E07000169
+Yorkshire & Humberside,Sheffield,E08000019
+Yorkshire & Humberside,Wakefield,E08000036
+Yorkshire & Humberside,York,E06000014
